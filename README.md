@@ -1,16 +1,123 @@
-### Hi there 👋
+<h2>Hello there, I'm Hurdock! <img src="https://emoji.gg/assets/emoji/2469_gil_wave.png" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Full-Stack Developer & Mobile developer
+</em></p>
 
-<!--
-**Hurdock/hurdock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Twitter Follow](https://img.shields.io/twitter/follow/hurdock?label=Follow)
+[![Linkedin: statevalentin](https://img.shields.io/badge/-Valentin_State-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/statevalentin/)](https://www.linkedin.com/in/statevalentin/)
+![GitHub followers](https://img.shields.io/github/followers/hurdock?label=Follow&style=social)
 
-Here are some ideas to get you started:
+👇 Hit me up on discord if you wanna get in touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+Hurdock#8468
+```
+### <img src="https://emoji.gg/assets/emoji/3096_CuteGuyActuallyFlipsPaper.gif" width="50"> A little more about me...  
+
+```javascript
+const hurdock = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript"],
+    askMeAbout: ["web dev", "tech", "app dev", "anime", "games"],
+    technologies: {
+        mobileApp: ["React Native"],
+        frontEnd: {
+            js: ["React""],
+            css: ["material-ui", "elastic-ui", "semantic-ui"]
+        },
+        backEnd: {
+            js: ["node", "express"]
+        },
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["graphql /w hasura", "mongo", "MySql", "sqlite"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "Improving my mobile dev skills and hoping to learn Swift.",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-677-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 0 Contributions in the Year 2021
+ > 
+> 📦 334.1 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 33 Public Repositories 
+ > 
+> 🔑 18 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
+🌆 Daytime    182 commits    ████████░░░░░░░░░░░░░░░░░   34.34% 
+🌃 Evening    141 commits    ██████░░░░░░░░░░░░░░░░░░░   26.6% 
+🌙 Night      131 commits    ██████░░░░░░░░░░░░░░░░░░░   24.72%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.4% 
+Tuesday      59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
+Wednesday    56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
+Thursday     82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
+Friday       60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
+Saturday     69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
+Sunday       133 commits    ██████░░░░░░░░░░░░░░░░░░░   25.09%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               11 hrs 50 mins      ██████████████████░░░░░░░   73.61% 
+Docker                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
+Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.62% 
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.77%
+
+🔥 Editors: 
+WebStorm                 16 hrs 5 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      16 hrs 5 mins       █████████████████████████   100.0% 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+**I Mostly Code in Vue** 
+
+```text
+Vue                      10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
+Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
+
+
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
