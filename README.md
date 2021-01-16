@@ -22,7 +22,7 @@ const hurdock = {
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
-            js: ["React""],
+            js: ["React"],
             css: ["material-ui", "elastic-ui", "semantic-ui"]
         },
         backEnd: {
