@@ -10,7 +10,7 @@
 👇 Hit me up on discord if you wanna get in touch
 
 ```bash
-Hurdock#8468
+Hurdock#1998
 ```
 ### <img src="https://emoji.gg/assets/emoji/3096_CuteGuyActuallyFlipsPaper.gif" width="50"> A little more about me...  
 
