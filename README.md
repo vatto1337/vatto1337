@@ -1,6 +1,6 @@
 <h2>Hello there, I'm Hurdock! <img src="https://emoji.gg/assets/emoji/2469_gil_wave.png" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Full-Stack Developer & Mobile developer
+<p><em>Software Developer
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/hurdock?label=Follow)
