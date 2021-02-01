@@ -41,11 +41,11 @@ const hurdock = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 9 Contributions in the Year 2021
+> 🏆 10 Contributions in the Year 2021
  > 
 > 📦 277.9 kB Used in Github's Storage 
  > 
