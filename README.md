@@ -47,7 +47,7 @@ const hurdock = {
 
 > 🏆 14 Contributions in the Year 2021
  > 
-> 📦 278.0 kB Used in Github's Storage 
+> 📦 278.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
